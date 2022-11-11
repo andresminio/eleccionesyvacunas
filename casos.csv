@@ -1,0 +1,1489 @@
+eleccion,iddistrito,distrito,diasparaeleccion,casos100mil,vacunadostot100
+PASO,01,CABA,-15,10.7,72
+PASO,01,CABA,-14,7.9,72
+PASO,01,CABA,-13,9.0,72
+PASO,01,CABA,-12,10.6,73
+PASO,01,CABA,-11,10.9,73
+PASO,01,CABA,-10,10.9,73
+PASO,01,CABA,-9,10.6,73
+PASO,01,CABA,-8,8.4,73
+PASO,01,CABA,-7,5.1,73
+PASO,01,CABA,-6,7.2,73
+PASO,01,CABA,-5,8.9,73
+PASO,01,CABA,-4,7.2,73
+PASO,01,CABA,-3,6.8,73
+PASO,01,CABA,-2,7.4,73
+PASO,01,CABA,-1,5.7,73
+PASO,01,CABA,0,4.5,73
+PASO,01,CABA,1,6.5,74
+PASO,01,CABA,2,7.1,74
+PASO,01,CABA,3,6.3,74
+PASO,01,CABA,4,6.6,74
+PASO,01,CABA,5,5.9,74
+PASO,01,CABA,6,5.5,74
+PASO,01,CABA,7,3.2,74
+PASO,01,CABA,8,4.1,75
+PASO,01,CABA,9,4.7,75
+PASO,01,CABA,10,4.9,75
+PASO,01,CABA,11,4.7,75
+PASO,01,CABA,12,5.1,76
+PASO,01,CABA,13,4.6,76
+PASO,01,CABA,14,3.2,76
+PASO,01,CABA,15,2.9,76
+PASO,02,Buenos Aires,-15,5.1,62
+PASO,02,Buenos Aires,-14,3.0,62
+PASO,02,Buenos Aires,-13,6.8,62
+PASO,02,Buenos Aires,-12,9.2,62
+PASO,02,Buenos Aires,-11,7.5,62
+PASO,02,Buenos Aires,-10,6.6,62
+PASO,02,Buenos Aires,-9,6.6,62
+PASO,02,Buenos Aires,-8,4.7,62
+PASO,02,Buenos Aires,-7,2.2,63
+PASO,02,Buenos Aires,-6,5.4,63
+PASO,02,Buenos Aires,-5,6.5,63
+PASO,02,Buenos Aires,-4,5.5,63
+PASO,02,Buenos Aires,-3,5.2,63
+PASO,02,Buenos Aires,-2,4.6,63
+PASO,02,Buenos Aires,-1,2.7,63
+PASO,02,Buenos Aires,0,1.6,63
+PASO,02,Buenos Aires,1,3.8,63
+PASO,02,Buenos Aires,2,5.2,63
+PASO,02,Buenos Aires,3,4.2,63
+PASO,02,Buenos Aires,4,5.0,64
+PASO,02,Buenos Aires,5,3.8,64
+PASO,02,Buenos Aires,6,2.6,64
+PASO,02,Buenos Aires,7,1.0,64
+PASO,02,Buenos Aires,8,3.9,64
+PASO,02,Buenos Aires,9,3.8,64
+PASO,02,Buenos Aires,10,3.5,64
+PASO,02,Buenos Aires,11,3.1,65
+PASO,02,Buenos Aires,12,3.6,65
+PASO,02,Buenos Aires,13,3.1,65
+PASO,02,Buenos Aires,14,1.1,65
+PASO,02,Buenos Aires,15,2.5,65
+PASO,03,Catamarca,-15,16.5,69
+PASO,03,Catamarca,-14,24.6,69
+PASO,03,Catamarca,-13,26.3,69
+PASO,03,Catamarca,-12,51.8,69
+PASO,03,Catamarca,-11,64.0,70
+PASO,03,Catamarca,-10,61.1,70
+PASO,03,Catamarca,-9,53.0,70
+PASO,03,Catamarca,-8,7.6,70
+PASO,03,Catamarca,-7,21.7,70
+PASO,03,Catamarca,-6,18.9,70
+PASO,03,Catamarca,-5,28.2,70
+PASO,03,Catamarca,-4,47.5,71
+PASO,03,Catamarca,-3,77.6,71
+PASO,03,Catamarca,-2,35.8,71
+PASO,03,Catamarca,-1,6.9,71
+PASO,03,Catamarca,0,5.5,71
+PASO,03,Catamarca,1,17.4,71
+PASO,03,Catamarca,2,28.9,71
+PASO,03,Catamarca,3,27.0,71
+PASO,03,Catamarca,4,14.8,71
+PASO,03,Catamarca,5,15.5,72
+PASO,03,Catamarca,6,6.4,72
+PASO,03,Catamarca,7,4.3,72
+PASO,03,Catamarca,8,13.1,72
+PASO,03,Catamarca,9,9.5,72
+PASO,03,Catamarca,10,23.9,72
+PASO,03,Catamarca,11,13.6,72
+PASO,03,Catamarca,12,13.6,72
+PASO,03,Catamarca,13,12.1,72
+PASO,03,Catamarca,14,3.1,72
+PASO,03,Catamarca,15,7.4,72
+PASO,04,Córdoba,-15,14.8,62
+PASO,04,Córdoba,-14,5.3,62
+PASO,04,Córdoba,-13,23.2,63
+PASO,04,Córdoba,-12,28.0,63
+PASO,04,Córdoba,-11,24.3,63
+PASO,04,Córdoba,-10,22.1,64
+PASO,04,Córdoba,-9,16.0,64
+PASO,04,Córdoba,-8,6.5,64
+PASO,04,Córdoba,-7,4.7,64
+PASO,04,Córdoba,-6,19.8,64
+PASO,04,Córdoba,-5,16.8,64
+PASO,04,Córdoba,-4,11.8,64
+PASO,04,Córdoba,-3,10.9,64
+PASO,04,Córdoba,-2,8.8,65
+PASO,04,Córdoba,-1,4.8,65
+PASO,04,Córdoba,0,2.2,65
+PASO,04,Córdoba,1,6.6,65
+PASO,04,Córdoba,2,9.7,65
+PASO,04,Córdoba,3,7.8,65
+PASO,04,Córdoba,4,5.6,65
+PASO,04,Córdoba,5,5.5,65
+PASO,04,Córdoba,6,3.6,65
+PASO,04,Córdoba,7,2.0,65
+PASO,04,Córdoba,8,4.7,66
+PASO,04,Córdoba,9,6.4,66
+PASO,04,Córdoba,10,5.9,66
+PASO,04,Córdoba,11,5.6,66
+PASO,04,Córdoba,12,4.4,66
+PASO,04,Córdoba,13,4.7,66
+PASO,04,Córdoba,14,0.8,66
+PASO,04,Córdoba,15,5.2,66
+PASO,05,Corrientes,-15,0.4,62
+PASO,05,Corrientes,-14,0.1,62
+PASO,05,Corrientes,-13,1.1,62
+PASO,05,Corrientes,-12,60.0,63
+PASO,05,Corrientes,-11,23.9,63
+PASO,05,Corrientes,-10,1.4,63
+PASO,05,Corrientes,-9,13.6,63
+PASO,05,Corrientes,-8,0.4,63
+PASO,05,Corrientes,-7,0.1,63
+PASO,05,Corrientes,-6,18.8,63
+PASO,05,Corrientes,-5,15.4,64
+PASO,05,Corrientes,-4,13.0,64
+PASO,05,Corrientes,-3,10.4,65
+PASO,05,Corrientes,-2,12.2,65
+PASO,05,Corrientes,-1,6.3,65
+PASO,05,Corrientes,0,0.2,65
+PASO,05,Corrientes,1,5.1,65
+PASO,05,Corrientes,2,10.0,65
+PASO,05,Corrientes,3,8.9,65
+PASO,05,Corrientes,4,7.6,65
+PASO,05,Corrientes,5,9.6,65
+PASO,05,Corrientes,6,7.3,65
+PASO,05,Corrientes,7,0.2,65
+PASO,05,Corrientes,8,4.7,65
+PASO,05,Corrientes,9,9.0,65
+PASO,05,Corrientes,10,5.4,66
+PASO,05,Corrientes,11,9.6,66
+PASO,05,Corrientes,12,22.8,66
+PASO,05,Corrientes,13,8.4,66
+PASO,05,Corrientes,14,8.6,66
+PASO,05,Corrientes,15,7.5,66
+PASO,06,Chaco,-15,4.7,58
+PASO,06,Chaco,-14,6.3,58
+PASO,06,Chaco,-13,7.4,58
+PASO,06,Chaco,-12,9.2,58
+PASO,06,Chaco,-11,9.0,59
+PASO,06,Chaco,-10,9.5,59
+PASO,06,Chaco,-9,6.5,59
+PASO,06,Chaco,-8,5.6,59
+PASO,06,Chaco,-7,3.5,59
+PASO,06,Chaco,-6,7.2,59
+PASO,06,Chaco,-5,7.2,59
+PASO,06,Chaco,-4,5.2,59
+PASO,06,Chaco,-3,4.1,60
+PASO,06,Chaco,-2,3.7,60
+PASO,06,Chaco,-1,1.8,60
+PASO,06,Chaco,0,1.3,60
+PASO,06,Chaco,1,5.3,60
+PASO,06,Chaco,2,3.8,60
+PASO,06,Chaco,3,3.3,60
+PASO,06,Chaco,4,2.1,60
+PASO,06,Chaco,5,2.9,60
+PASO,06,Chaco,6,2.2,60
+PASO,06,Chaco,7,0.7,60
+PASO,06,Chaco,8,3.0,60
+PASO,06,Chaco,9,3.0,60
+PASO,06,Chaco,10,1.7,61
+PASO,06,Chaco,11,1.7,61
+PASO,06,Chaco,12,2.1,61
+PASO,06,Chaco,13,2.1,61
+PASO,06,Chaco,14,0.7,61
+PASO,06,Chaco,15,1.6,61
+PASO,07,Chubut,-15,18.6,56
+PASO,07,Chubut,-14,7.3,56
+PASO,07,Chubut,-13,10.5,56
+PASO,07,Chubut,-12,29.4,57
+PASO,07,Chubut,-11,17.3,57
+PASO,07,Chubut,-10,25.9,57
+PASO,07,Chubut,-9,13.5,57
+PASO,07,Chubut,-8,7.2,57
+PASO,07,Chubut,-7,3.3,57
+PASO,07,Chubut,-6,7.9,58
+PASO,07,Chubut,-5,15.7,58
+PASO,07,Chubut,-4,12.7,58
+PASO,07,Chubut,-3,9.7,58
+PASO,07,Chubut,-2,10.2,58
+PASO,07,Chubut,-1,2.7,58
+PASO,07,Chubut,0,2.1,58
+PASO,07,Chubut,1,9.1,58
+PASO,07,Chubut,2,7.9,59
+PASO,07,Chubut,3,13.7,59
+PASO,07,Chubut,4,7.9,59
+PASO,07,Chubut,5,7.9,59
+PASO,07,Chubut,6,7.9,59
+PASO,07,Chubut,7,0.8,59
+PASO,07,Chubut,8,6.4,59
+PASO,07,Chubut,9,3.5,59
+PASO,07,Chubut,10,10.6,59
+PASO,07,Chubut,11,8.7,59
+PASO,07,Chubut,12,12.1,60
+PASO,07,Chubut,13,7.2,60
+PASO,07,Chubut,14,1.3,60
+PASO,07,Chubut,15,14.1,60
+PASO,08,Entre Ríos,-15,5.9,61
+PASO,08,Entre Ríos,-14,2.8,61
+PASO,08,Entre Ríos,-13,2.6,61
+PASO,08,Entre Ríos,-12,15.0,61
+PASO,08,Entre Ríos,-11,7.4,62
+PASO,08,Entre Ríos,-10,8.4,62
+PASO,08,Entre Ríos,-9,6.9,62
+PASO,08,Entre Ríos,-8,3.1,62
+PASO,08,Entre Ríos,-7,1.1,62
+PASO,08,Entre Ríos,-6,4.7,63
+PASO,08,Entre Ríos,-5,13.2,63
+PASO,08,Entre Ríos,-4,7.2,63
+PASO,08,Entre Ríos,-3,3.0,63
+PASO,08,Entre Ríos,-2,6.8,63
+PASO,08,Entre Ríos,-1,1.9,63
+PASO,08,Entre Ríos,0,1.4,63
+PASO,08,Entre Ríos,1,7.2,63
+PASO,08,Entre Ríos,2,11.6,63
+PASO,08,Entre Ríos,3,9.4,63
+PASO,08,Entre Ríos,4,7.7,63
+PASO,08,Entre Ríos,5,7.8,63
+PASO,08,Entre Ríos,6,2.9,63
+PASO,08,Entre Ríos,7,0.2,63
+PASO,08,Entre Ríos,8,5.9,64
+PASO,08,Entre Ríos,9,3.8,64
+PASO,08,Entre Ríos,10,5.5,64
+PASO,08,Entre Ríos,11,2.9,64
+PASO,08,Entre Ríos,12,2.7,64
+PASO,08,Entre Ríos,13,3.4,64
+PASO,08,Entre Ríos,14,0.2,64
+PASO,08,Entre Ríos,15,4.1,64
+PASO,09,Formosa,-15,15.2,68
+PASO,09,Formosa,-14,11.8,68
+PASO,09,Formosa,-13,13.4,68
+PASO,09,Formosa,-12,13.9,68
+PASO,09,Formosa,-11,17.0,69
+PASO,09,Formosa,-10,8.9,69
+PASO,09,Formosa,-9,9.2,69
+PASO,09,Formosa,-8,8.5,70
+PASO,09,Formosa,-7,7.9,70
+PASO,09,Formosa,-6,4.1,70
+PASO,09,Formosa,-5,13.0,70
+PASO,09,Formosa,-4,7.9,70
+PASO,09,Formosa,-3,5.9,70
+PASO,09,Formosa,-2,6.9,70
+PASO,09,Formosa,-1,6.6,70
+PASO,09,Formosa,0,5.9,70
+PASO,09,Formosa,1,4.4,70
+PASO,09,Formosa,2,8.5,70
+PASO,09,Formosa,3,6.6,70
+PASO,09,Formosa,4,4.8,70
+PASO,09,Formosa,5,4.1,70
+PASO,09,Formosa,6,7.7,71
+PASO,09,Formosa,7,5.2,71
+PASO,09,Formosa,8,4.6,71
+PASO,09,Formosa,9,6.7,71
+PASO,09,Formosa,10,4.6,71
+PASO,09,Formosa,11,4.6,71
+PASO,09,Formosa,12,2.5,71
+PASO,09,Formosa,13,5.1,71
+PASO,09,Formosa,14,1.6,71
+PASO,09,Formosa,15,2.3,71
+PASO,10,Jujuy,-15,10.7,63
+PASO,10,Jujuy,-14,5.5,63
+PASO,10,Jujuy,-13,7.4,63
+PASO,10,Jujuy,-12,10.0,63
+PASO,10,Jujuy,-11,10.4,64
+PASO,10,Jujuy,-10,9.6,64
+PASO,10,Jujuy,-9,5.9,64
+PASO,10,Jujuy,-8,5.9,64
+PASO,10,Jujuy,-7,5.0,64
+PASO,10,Jujuy,-6,4.9,64
+PASO,10,Jujuy,-5,6.0,64
+PASO,10,Jujuy,-4,4.2,64
+PASO,10,Jujuy,-3,5.4,65
+PASO,10,Jujuy,-2,3.5,65
+PASO,10,Jujuy,-1,2.4,65
+PASO,10,Jujuy,0,2.4,65
+PASO,10,Jujuy,1,3.1,65
+PASO,10,Jujuy,2,5.0,65
+PASO,10,Jujuy,3,3.9,65
+PASO,10,Jujuy,4,2.6,65
+PASO,10,Jujuy,5,2.6,65
+PASO,10,Jujuy,6,2.7,65
+PASO,10,Jujuy,7,1.5,65
+PASO,10,Jujuy,8,1.8,65
+PASO,10,Jujuy,9,3.1,66
+PASO,10,Jujuy,10,4.1,66
+PASO,10,Jujuy,11,2.2,66
+PASO,10,Jujuy,12,3.0,66
+PASO,10,Jujuy,13,2.6,66
+PASO,10,Jujuy,14,1.8,66
+PASO,10,Jujuy,15,4.4,66
+PASO,11,La Pampa,-15,20.5,64
+PASO,11,La Pampa,-14,7.2,65
+PASO,11,La Pampa,-13,17.7,65
+PASO,11,La Pampa,-12,18.3,66
+PASO,11,La Pampa,-11,23.0,66
+PASO,11,La Pampa,-10,23.8,66
+PASO,11,La Pampa,-9,14.1,66
+PASO,11,La Pampa,-8,15.8,66
+PASO,11,La Pampa,-7,4.4,66
+PASO,11,La Pampa,-6,15.5,66
+PASO,11,La Pampa,-5,18.8,66
+PASO,11,La Pampa,-4,11.1,66
+PASO,11,La Pampa,-3,10.2,66
+PASO,11,La Pampa,-2,9.4,66
+PASO,11,La Pampa,-1,2.2,66
+PASO,11,La Pampa,0,1.9,66
+PASO,11,La Pampa,1,8.0,67
+PASO,11,La Pampa,2,14.7,67
+PASO,11,La Pampa,3,21.9,67
+PASO,11,La Pampa,4,62.5,67
+PASO,11,La Pampa,5,59.2,67
+PASO,11,La Pampa,6,14.4,67
+PASO,11,La Pampa,7,2.5,67
+PASO,11,La Pampa,8,57.8,67
+PASO,11,La Pampa,9,19.4,67
+PASO,11,La Pampa,10,7.7,68
+PASO,11,La Pampa,11,6.1,68
+PASO,11,La Pampa,12,5.3,69
+PASO,11,La Pampa,13,16.2,69
+PASO,11,La Pampa,14,0.6,69
+PASO,11,La Pampa,15,5.8,69
+PASO,12,La Rioja,-15,16.1,66
+PASO,12,La Rioja,-14,11.5,66
+PASO,12,La Rioja,-13,13.3,66
+PASO,12,La Rioja,-12,12.5,66
+PASO,12,La Rioja,-11,16.8,66
+PASO,12,La Rioja,-10,17.3,67
+PASO,12,La Rioja,-9,22.6,67
+PASO,12,La Rioja,-8,16.6,67
+PASO,12,La Rioja,-7,3.8,67
+PASO,12,La Rioja,-6,1.8,67
+PASO,12,La Rioja,-5,17.8,67
+PASO,12,La Rioja,-4,7.5,67
+PASO,12,La Rioja,-3,6.5,67
+PASO,12,La Rioja,-2,9.8,67
+PASO,12,La Rioja,-1,6.3,68
+PASO,12,La Rioja,0,9.3,68
+PASO,12,La Rioja,1,5.5,68
+PASO,12,La Rioja,2,4.0,68
+PASO,12,La Rioja,3,2.8,68
+PASO,12,La Rioja,4,5.8,68
+PASO,12,La Rioja,5,7.5,68
+PASO,12,La Rioja,6,9.3,68
+PASO,12,La Rioja,7,3.3,68
+PASO,12,La Rioja,8,1.3,68
+PASO,12,La Rioja,9,4.5,68
+PASO,12,La Rioja,10,6.8,68
+PASO,12,La Rioja,11,6.0,68
+PASO,12,La Rioja,12,6.5,68
+PASO,12,La Rioja,13,5.4,68
+PASO,12,La Rioja,14,3.0,68
+PASO,12,La Rioja,15,2.5,68
+PASO,13,Mendoza,-15,7.1,61
+PASO,13,Mendoza,-14,4.7,61
+PASO,13,Mendoza,-13,11.8,61
+PASO,13,Mendoza,-12,16.2,61
+PASO,13,Mendoza,-11,11.0,61
+PASO,13,Mendoza,-10,7.7,61
+PASO,13,Mendoza,-9,8.7,61
+PASO,13,Mendoza,-8,3.6,61
+PASO,13,Mendoza,-7,1.0,61
+PASO,13,Mendoza,-6,6.4,61
+PASO,13,Mendoza,-5,8.7,61
+PASO,13,Mendoza,-4,6.4,62
+PASO,13,Mendoza,-3,6.5,62
+PASO,13,Mendoza,-2,4.5,62
+PASO,13,Mendoza,-1,2.9,62
+PASO,13,Mendoza,0,0.7,62
+PASO,13,Mendoza,1,4.3,62
+PASO,13,Mendoza,2,4.8,62
+PASO,13,Mendoza,3,4.2,62
+PASO,13,Mendoza,4,2.3,62
+PASO,13,Mendoza,5,3.6,62
+PASO,13,Mendoza,6,1.7,62
+PASO,13,Mendoza,7,0.2,62
+PASO,13,Mendoza,8,3.0,62
+PASO,13,Mendoza,9,1.0,62
+PASO,13,Mendoza,10,2.1,62
+PASO,13,Mendoza,11,3.1,63
+PASO,13,Mendoza,12,2.6,63
+PASO,13,Mendoza,13,2.0,63
+PASO,13,Mendoza,14,0.2,63
+PASO,13,Mendoza,15,2.5,63
+PASO,14,Misiones,-15,10.0,51
+PASO,14,Misiones,-14,7.5,51
+PASO,14,Misiones,-13,6.7,51
+PASO,14,Misiones,-12,5.6,51
+PASO,14,Misiones,-11,4.5,51
+PASO,14,Misiones,-10,5.4,52
+PASO,14,Misiones,-9,1.9,52
+PASO,14,Misiones,-8,2.8,52
+PASO,14,Misiones,-7,3.0,52
+PASO,14,Misiones,-6,3.5,52
+PASO,14,Misiones,-5,2.5,52
+PASO,14,Misiones,-4,2.6,52
+PASO,14,Misiones,-3,3.0,52
+PASO,14,Misiones,-2,2.7,53
+PASO,14,Misiones,-1,3.1,53
+PASO,14,Misiones,0,1.6,53
+PASO,14,Misiones,1,1.1,53
+PASO,14,Misiones,2,1.6,53
+PASO,14,Misiones,3,3.4,53
+PASO,14,Misiones,4,1.6,53
+PASO,14,Misiones,5,2.0,53
+PASO,14,Misiones,6,1.3,53
+PASO,14,Misiones,7,1.5,53
+PASO,14,Misiones,8,2.0,53
+PASO,14,Misiones,9,1.5,53
+PASO,14,Misiones,10,1.5,54
+PASO,14,Misiones,11,0.8,54
+PASO,14,Misiones,12,0.9,54
+PASO,14,Misiones,13,1.3,54
+PASO,14,Misiones,14,0.6,54
+PASO,14,Misiones,15,0.4,54
+PASO,15,Neuquén,-15,9.7,67
+PASO,15,Neuquén,-14,7.0,67
+PASO,15,Neuquén,-13,11.5,67
+PASO,15,Neuquén,-12,13.5,67
+PASO,15,Neuquén,-11,8.6,67
+PASO,15,Neuquén,-10,12.0,67
+PASO,15,Neuquén,-9,11.0,68
+PASO,15,Neuquén,-8,7.4,68
+PASO,15,Neuquén,-7,3.9,68
+PASO,15,Neuquén,-6,10.9,68
+PASO,15,Neuquén,-5,8.6,68
+PASO,15,Neuquén,-4,7.9,68
+PASO,15,Neuquén,-3,6.5,68
+PASO,15,Neuquén,-2,9.4,68
+PASO,15,Neuquén,-1,3.0,68
+PASO,15,Neuquén,0,3.3,68
+PASO,15,Neuquén,1,4.9,68
+PASO,15,Neuquén,2,6.4,68
+PASO,15,Neuquén,3,6.7,69
+PASO,15,Neuquén,4,6.8,69
+PASO,15,Neuquén,5,5.4,69
+PASO,15,Neuquén,6,2.2,69
+PASO,15,Neuquén,7,2.1,69
+PASO,15,Neuquén,8,3.1,69
+PASO,15,Neuquén,9,4.6,69
+PASO,15,Neuquén,10,3.1,69
+PASO,15,Neuquén,11,1.8,70
+PASO,15,Neuquén,12,2.7,70
+PASO,15,Neuquén,13,2.8,70
+PASO,15,Neuquén,14,3.9,70
+PASO,15,Neuquén,15,2.2,70
+PASO,16,Río Negro,-15,15.1,64
+PASO,16,Río Negro,-14,4.8,64
+PASO,16,Río Negro,-13,16.8,64
+PASO,16,Río Negro,-12,14.1,64
+PASO,16,Río Negro,-11,12.5,64
+PASO,16,Río Negro,-10,14.4,64
+PASO,16,Río Negro,-9,16.5,65
+PASO,16,Río Negro,-8,6.2,65
+PASO,16,Río Negro,-7,4.5,65
+PASO,16,Río Negro,-6,10.8,65
+PASO,16,Río Negro,-5,17.2,65
+PASO,16,Río Negro,-4,10.7,65
+PASO,16,Río Negro,-3,10.0,65
+PASO,16,Río Negro,-2,12.3,65
+PASO,16,Río Negro,-1,3.3,65
+PASO,16,Río Negro,0,2.2,65
+PASO,16,Río Negro,1,13.2,65
+PASO,16,Río Negro,2,9.1,66
+PASO,16,Río Negro,3,9.2,66
+PASO,16,Río Negro,4,9.6,66
+PASO,16,Río Negro,5,5.8,66
+PASO,16,Río Negro,6,3.7,66
+PASO,16,Río Negro,7,1.6,66
+PASO,16,Río Negro,8,5.5,66
+PASO,16,Río Negro,9,3.8,66
+PASO,16,Río Negro,10,4.5,66
+PASO,16,Río Negro,11,3.8,67
+PASO,16,Río Negro,12,5.4,67
+PASO,16,Río Negro,13,4.1,67
+PASO,16,Río Negro,14,0.5,67
+PASO,16,Río Negro,15,4.8,67
+PASO,17,Salta,-15,8.1,55
+PASO,17,Salta,-14,2.8,55
+PASO,17,Salta,-13,8.2,55
+PASO,17,Salta,-12,12.3,55
+PASO,17,Salta,-11,11.1,55
+PASO,17,Salta,-10,8.8,56
+PASO,17,Salta,-9,8.2,56
+PASO,17,Salta,-8,6.4,56
+PASO,17,Salta,-7,1.4,56
+PASO,17,Salta,-6,9.9,56
+PASO,17,Salta,-5,8.0,56
+PASO,17,Salta,-4,6.8,56
+PASO,17,Salta,-3,7.5,56
+PASO,17,Salta,-2,6.6,57
+PASO,17,Salta,-1,2.3,57
+PASO,17,Salta,0,1.2,57
+PASO,17,Salta,1,2.3,57
+PASO,17,Salta,2,2.8,57
+PASO,17,Salta,3,2.2,57
+PASO,17,Salta,4,4.9,57
+PASO,17,Salta,5,8.5,57
+PASO,17,Salta,6,3.1,57
+PASO,17,Salta,7,1.4,57
+PASO,17,Salta,8,8.1,57
+PASO,17,Salta,9,3.0,57
+PASO,17,Salta,10,4.6,58
+PASO,17,Salta,11,3.8,58
+PASO,17,Salta,12,3.4,58
+PASO,17,Salta,13,3.9,58
+PASO,17,Salta,14,1.1,58
+PASO,17,Salta,15,3.1,58
+PASO,18,San Juan,-15,12.2,62
+PASO,18,San Juan,-14,0.8,62
+PASO,18,San Juan,-13,111.1,62
+PASO,18,San Juan,-12,44.8,62
+PASO,18,San Juan,-11,8.6,62
+PASO,18,San Juan,-10,5.1,62
+PASO,18,San Juan,-9,14.7,63
+PASO,18,San Juan,-8,5.3,63
+PASO,18,San Juan,-7,0.8,63
+PASO,18,San Juan,-6,7.0,63
+PASO,18,San Juan,-5,7.2,63
+PASO,18,San Juan,-4,4.8,63
+PASO,18,San Juan,-3,6.6,63
+PASO,18,San Juan,-2,2.8,63
+PASO,18,San Juan,-1,4.1,63
+PASO,18,San Juan,0,1.5,63
+PASO,18,San Juan,1,2.9,64
+PASO,18,San Juan,2,4.1,64
+PASO,18,San Juan,3,1.5,64
+PASO,18,San Juan,4,2.4,64
+PASO,18,San Juan,5,2.9,64
+PASO,18,San Juan,6,0.6,64
+PASO,18,San Juan,7,1.4,64
+PASO,18,San Juan,8,2.4,64
+PASO,18,San Juan,9,1.0,64
+PASO,18,San Juan,10,1.9,64
+PASO,18,San Juan,11,1.9,65
+PASO,18,San Juan,12,1.4,65
+PASO,18,San Juan,13,1.5,65
+PASO,18,San Juan,14,1.6,65
+PASO,18,San Juan,15,3.4,65
+PASO,19,San Luis,-15,15.7,63
+PASO,19,San Luis,-14,9.5,63
+PASO,19,San Luis,-13,13.0,63
+PASO,19,San Luis,-12,11.3,63
+PASO,19,San Luis,-11,10.1,64
+PASO,19,San Luis,-10,12.8,64
+PASO,19,San Luis,-9,9.5,64
+PASO,19,San Luis,-8,8.9,64
+PASO,19,San Luis,-7,7.6,64
+PASO,19,San Luis,-6,9.9,64
+PASO,19,San Luis,-5,4.7,64
+PASO,19,San Luis,-4,10.5,64
+PASO,19,San Luis,-3,4.5,64
+PASO,19,San Luis,-2,5.4,64
+PASO,19,San Luis,-1,4.1,64
+PASO,19,San Luis,0,2.5,64
+PASO,19,San Luis,1,3.3,64
+PASO,19,San Luis,2,2.3,64
+PASO,19,San Luis,3,7.0,65
+PASO,19,San Luis,4,3.3,65
+PASO,19,San Luis,5,2.5,65
+PASO,19,San Luis,6,3.9,65
+PASO,19,San Luis,7,2.5,65
+PASO,19,San Luis,8,1.9,65
+PASO,19,San Luis,9,1.7,66
+PASO,19,San Luis,10,2.3,66
+PASO,19,San Luis,11,1.6,67
+PASO,19,San Luis,12,1.9,67
+PASO,19,San Luis,13,2.3,67
+PASO,19,San Luis,14,1.9,67
+PASO,19,San Luis,15,1.6,67
+PASO,20,Santa Cruz,-15,4.5,53
+PASO,20,Santa Cruz,-14,2.7,53
+PASO,20,Santa Cruz,-13,8.3,53
+PASO,20,Santa Cruz,-12,6.9,53
+PASO,20,Santa Cruz,-11,3.7,54
+PASO,20,Santa Cruz,-10,5.3,54
+PASO,20,Santa Cruz,-9,4.3,54
+PASO,20,Santa Cruz,-8,1.1,54
+PASO,20,Santa Cruz,-7,1.6,54
+PASO,20,Santa Cruz,-6,4.5,54
+PASO,20,Santa Cruz,-5,6.4,54
+PASO,20,Santa Cruz,-4,4.5,54
+PASO,20,Santa Cruz,-3,2.4,55
+PASO,20,Santa Cruz,-2,3.5,55
+PASO,20,Santa Cruz,-1,1.6,55
+PASO,20,Santa Cruz,0,1.1,55
+PASO,20,Santa Cruz,1,3.5,55
+PASO,20,Santa Cruz,2,5.3,55
+PASO,20,Santa Cruz,3,3.2,55
+PASO,20,Santa Cruz,4,2.1,55
+PASO,20,Santa Cruz,5,4.5,56
+PASO,20,Santa Cruz,6,0.3,56
+PASO,20,Santa Cruz,7,0.5,56
+PASO,20,Santa Cruz,8,2.7,56
+PASO,20,Santa Cruz,9,1.3,56
+PASO,20,Santa Cruz,10,1.3,56
+PASO,20,Santa Cruz,11,2.4,56
+PASO,20,Santa Cruz,12,2.1,57
+PASO,20,Santa Cruz,13,1.5,57
+PASO,20,Santa Cruz,14,0.8,57
+PASO,20,Santa Cruz,15,0.8,57
+PASO,21,Santa Fe,-15,6.7,65
+PASO,21,Santa Fe,-14,3.2,65
+PASO,21,Santa Fe,-13,8.4,65
+PASO,21,Santa Fe,-12,9.0,66
+PASO,21,Santa Fe,-11,7.8,66
+PASO,21,Santa Fe,-10,7.8,66
+PASO,21,Santa Fe,-9,5.9,66
+PASO,21,Santa Fe,-8,4.1,66
+PASO,21,Santa Fe,-7,2.2,66
+PASO,21,Santa Fe,-6,6.1,67
+PASO,21,Santa Fe,-5,5.1,67
+PASO,21,Santa Fe,-4,4.6,67
+PASO,21,Santa Fe,-3,3.5,67
+PASO,21,Santa Fe,-2,3.1,67
+PASO,21,Santa Fe,-1,1.6,67
+PASO,21,Santa Fe,0,1.4,67
+PASO,21,Santa Fe,1,2.3,67
+PASO,21,Santa Fe,2,5.4,67
+PASO,21,Santa Fe,3,3.7,67
+PASO,21,Santa Fe,4,2.7,67
+PASO,21,Santa Fe,5,2.6,67
+PASO,21,Santa Fe,6,2.0,67
+PASO,21,Santa Fe,7,0.6,67
+PASO,21,Santa Fe,8,2.6,67
+PASO,21,Santa Fe,9,2.2,67
+PASO,21,Santa Fe,10,1.9,67
+PASO,21,Santa Fe,11,2.0,68
+PASO,21,Santa Fe,12,2.1,68
+PASO,21,Santa Fe,13,1.9,68
+PASO,21,Santa Fe,14,0.8,68
+PASO,21,Santa Fe,15,1.3,68
+PASO,22,S del Estero,-15,12.3,66
+PASO,22,S del Estero,-14,7.9,66
+PASO,22,S del Estero,-13,9.3,66
+PASO,22,S del Estero,-12,8.4,67
+PASO,22,S del Estero,-11,11.2,67
+PASO,22,S del Estero,-10,10.5,67
+PASO,22,S del Estero,-9,7.8,67
+PASO,22,S del Estero,-8,6.1,67
+PASO,22,S del Estero,-7,5.8,67
+PASO,22,S del Estero,-6,6.0,67
+PASO,22,S del Estero,-5,5.7,67
+PASO,22,S del Estero,-4,9.9,67
+PASO,22,S del Estero,-3,7.1,67
+PASO,22,S del Estero,-2,5.1,68
+PASO,22,S del Estero,-1,2.7,68
+PASO,22,S del Estero,0,2.4,68
+PASO,22,S del Estero,1,4.2,68
+PASO,22,S del Estero,2,3.9,68
+PASO,22,S del Estero,3,5.9,68
+PASO,22,S del Estero,4,5.6,68
+PASO,22,S del Estero,5,5.5,68
+PASO,22,S del Estero,6,1.4,68
+PASO,22,S del Estero,7,3.0,68
+PASO,22,S del Estero,8,2.5,68
+PASO,22,S del Estero,9,5.3,68
+PASO,22,S del Estero,10,5.1,68
+PASO,22,S del Estero,11,4.6,69
+PASO,22,S del Estero,12,3.5,69
+PASO,22,S del Estero,13,3.6,69
+PASO,22,S del Estero,14,1.1,69
+PASO,22,S del Estero,15,2.9,69
+PASO,23,T del Fuego,-15,11.8,61
+PASO,23,T del Fuego,-14,4.5,61
+PASO,23,T del Fuego,-13,7.3,62
+PASO,23,T del Fuego,-12,14.1,62
+PASO,23,T del Fuego,-11,14.6,62
+PASO,23,T del Fuego,-10,7.9,62
+PASO,23,T del Fuego,-9,11.8,63
+PASO,23,T del Fuego,-8,2.8,63
+PASO,23,T del Fuego,-7,0.6,63
+PASO,23,T del Fuego,-6,6.8,63
+PASO,23,T del Fuego,-5,2.8,63
+PASO,23,T del Fuego,-4,11.8,64
+PASO,23,T del Fuego,-3,2.8,64
+PASO,23,T del Fuego,-2,8.4,64
+PASO,23,T del Fuego,-1,1.7,64
+PASO,23,T del Fuego,0,2.8,64
+PASO,23,T del Fuego,1,4.5,64
+PASO,23,T del Fuego,2,7.3,64
+PASO,23,T del Fuego,3,2.8,64
+PASO,23,T del Fuego,4,2.8,64
+PASO,23,T del Fuego,5,4.3,65
+PASO,23,T del Fuego,6,1.1,65
+PASO,23,T del Fuego,7,3.7,65
+PASO,23,T del Fuego,8,28.1,65
+PASO,23,T del Fuego,9,2.3,65
+PASO,23,T del Fuego,10,4.5,65
+PASO,23,T del Fuego,11,1.7,65
+PASO,23,T del Fuego,12,1.7,66
+PASO,23,T del Fuego,13,6.2,66
+PASO,23,T del Fuego,14,1.1,66
+PASO,23,T del Fuego,15,1.1,66
+PASO,24,Tucumán,-15,8.2,58
+PASO,24,Tucumán,-14,3.8,58
+PASO,24,Tucumán,-13,23.8,59
+PASO,24,Tucumán,-12,23.0,59
+PASO,24,Tucumán,-11,24.0,59
+PASO,24,Tucumán,-10,17.6,59
+PASO,24,Tucumán,-9,19.7,59
+PASO,24,Tucumán,-8,7.3,59
+PASO,24,Tucumán,-7,3.6,59
+PASO,24,Tucumán,-6,26.8,59
+PASO,24,Tucumán,-5,14.7,60
+PASO,24,Tucumán,-4,21.1,60
+PASO,24,Tucumán,-3,40.8,60
+PASO,24,Tucumán,-2,11.7,60
+PASO,24,Tucumán,-1,4.1,60
+PASO,24,Tucumán,0,2.6,60
+PASO,24,Tucumán,1,15.5,60
+PASO,24,Tucumán,2,16.8,60
+PASO,24,Tucumán,3,7.9,60
+PASO,24,Tucumán,4,12.4,60
+PASO,24,Tucumán,5,6.9,60
+PASO,24,Tucumán,6,2.4,60
+PASO,24,Tucumán,7,1.6,60
+PASO,24,Tucumán,8,10.0,61
+PASO,24,Tucumán,9,3.7,61
+PASO,24,Tucumán,10,15.5,61
+PASO,24,Tucumán,11,7.6,61
+PASO,24,Tucumán,12,1.8,61
+PASO,24,Tucumán,13,6.1,61
+PASO,24,Tucumán,14,3.6,61
+PASO,24,Tucumán,15,10.0,61
+Generales,01,CABA,-15,,86
+Generales,01,CABA,-14,4.2,87
+Generales,01,CABA,-13,6.2,87
+Generales,01,CABA,-12,6.5,87
+Generales,01,CABA,-11,4.2,87
+Generales,01,CABA,-10,6.7,87
+Generales,01,CABA,-9,6.7,87
+Generales,01,CABA,-8,5.6,87
+Generales,01,CABA,-7,6.2,87
+Generales,01,CABA,-6,5.7,88
+Generales,01,CABA,-5,6.9,88
+Generales,01,CABA,-4,7.9,88
+Generales,01,CABA,-3,9.2,88
+Generales,01,CABA,-2,7.5,88
+Generales,01,CABA,-1,7.5,88
+Generales,01,CABA,0,4.2,88
+Generales,01,CABA,1,9.5,88
+Generales,01,CABA,2,7.7,88
+Generales,01,CABA,3,7.1,88
+Generales,01,CABA,4,7.9,89
+Generales,01,CABA,5,7.1,89
+Generales,01,CABA,6,7.7,89
+Generales,01,CABA,7,5.2,89
+Generales,01,CABA,8,6.3,89
+Generales,01,CABA,9,10.1,89
+Generales,01,CABA,10,7.3,89
+Generales,01,CABA,11,7.4,89
+Generales,01,CABA,12,7.3,89
+Generales,01,CABA,13,7.3,89
+Generales,01,CABA,14,7.6,90
+Generales,01,CABA,15,7.6,90
+Generales,02,Buenos Aires,-15,,76
+Generales,02,Buenos Aires,-14,1.0,76
+Generales,02,Buenos Aires,-13,2.6,77
+Generales,02,Buenos Aires,-12,3.9,77
+Generales,02,Buenos Aires,-11,2.9,77
+Generales,02,Buenos Aires,-10,3.2,77
+Generales,02,Buenos Aires,-9,2.7,78
+Generales,02,Buenos Aires,-8,1.9,78
+Generales,02,Buenos Aires,-7,1.0,78
+Generales,02,Buenos Aires,-6,2.1,78
+Generales,02,Buenos Aires,-5,3.1,79
+Generales,02,Buenos Aires,-4,3.6,79
+Generales,02,Buenos Aires,-3,2.9,79
+Generales,02,Buenos Aires,-2,3.5,79
+Generales,02,Buenos Aires,-1,3.5,79
+Generales,02,Buenos Aires,0,1.0,79
+Generales,02,Buenos Aires,1,3.0,79
+Generales,02,Buenos Aires,2,3.8,79
+Generales,02,Buenos Aires,3,3.7,79
+Generales,02,Buenos Aires,4,3.6,80
+Generales,02,Buenos Aires,5,3.6,80
+Generales,02,Buenos Aires,6,2.2,80
+Generales,02,Buenos Aires,7,1.0,80
+Generales,02,Buenos Aires,8,1.0,80
+Generales,02,Buenos Aires,9,3.3,80
+Generales,02,Buenos Aires,10,2.6,80
+Generales,02,Buenos Aires,11,2.5,80
+Generales,02,Buenos Aires,12,2.3,80
+Generales,02,Buenos Aires,13,2.1,81
+Generales,02,Buenos Aires,14,3.2,81
+Generales,02,Buenos Aires,15,2.4,81
+Generales,03,Catamarca,-15,,82
+Generales,03,Catamarca,-14,0.2,82
+Generales,03,Catamarca,-13,1.0,82
+Generales,03,Catamarca,-12,1.2,82
+Generales,03,Catamarca,-11,1.9,83
+Generales,03,Catamarca,-10,2.4,83
+Generales,03,Catamarca,-9,0.2,83
+Generales,03,Catamarca,-8,1.7,84
+Generales,03,Catamarca,-7,0.5,84
+Generales,03,Catamarca,-6,0.2,84
+Generales,03,Catamarca,-5,0.5,85
+Generales,03,Catamarca,-4,2.1,86
+Generales,03,Catamarca,-3,1.1,88
+Generales,03,Catamarca,-2,0.9,89
+Generales,03,Catamarca,-1,1.0,89
+Generales,03,Catamarca,0,1.0,89
+Generales,03,Catamarca,1,2.1,90
+Generales,03,Catamarca,2,1.2,90
+Generales,03,Catamarca,3,0.5,91
+Generales,03,Catamarca,4,1.2,92
+Generales,03,Catamarca,5,0.7,92
+Generales,03,Catamarca,6,0.2,92
+Generales,03,Catamarca,7,0.5,92
+Generales,03,Catamarca,8,0.2,92
+Generales,03,Catamarca,9,3.3,93
+Generales,03,Catamarca,10,1.0,93
+Generales,03,Catamarca,11,1.0,93
+Generales,03,Catamarca,12,1.0,93
+Generales,03,Catamarca,13,1.0,93
+Generales,03,Catamarca,14,2.6,93
+Generales,03,Catamarca,15,1.5,93
+Generales,04,Córdoba,-15,,80
+Generales,04,Córdoba,-14,1.5,80
+Generales,04,Córdoba,-13,1.7,80
+Generales,04,Córdoba,-12,2.1,80
+Generales,04,Córdoba,-11,1.4,81
+Generales,04,Córdoba,-10,2.7,81
+Generales,04,Córdoba,-9,2.3,81
+Generales,04,Córdoba,-8,1.0,81
+Generales,04,Córdoba,-7,0.7,81
+Generales,04,Córdoba,-6,0.9,81
+Generales,04,Córdoba,-5,2.4,82
+Generales,04,Córdoba,-4,1.7,82
+Generales,04,Córdoba,-3,2.5,82
+Generales,04,Córdoba,-2,3.3,82
+Generales,04,Córdoba,-1,3.3,82
+Generales,04,Córdoba,0,1.3,82
+Generales,04,Córdoba,1,1.7,82
+Generales,04,Córdoba,2,2.6,83
+Generales,04,Córdoba,3,2.4,83
+Generales,04,Córdoba,4,2.8,83
+Generales,04,Córdoba,5,2.1,83
+Generales,04,Córdoba,6,2.1,83
+Generales,04,Córdoba,7,1.2,83
+Generales,04,Córdoba,8,0.6,83
+Generales,04,Córdoba,9,2.9,83
+Generales,04,Córdoba,10,2.0,83
+Generales,04,Córdoba,11,2.0,83
+Generales,04,Córdoba,12,1.8,83
+Generales,04,Córdoba,13,1.8,83
+Generales,04,Córdoba,14,3.1,83
+Generales,04,Córdoba,15,2.0,84
+Generales,05,Corrientes,-15,,79
+Generales,05,Corrientes,-14,0.1,79
+Generales,05,Corrientes,-13,0.1,80
+Generales,05,Corrientes,-12,0.2,80
+Generales,05,Corrientes,-11,5.0,80
+Generales,05,Corrientes,-10,11.5,80
+Generales,05,Corrientes,-9,4.9,81
+Generales,05,Corrientes,-8,0.1,81
+Generales,05,Corrientes,-7,1.2,81
+Generales,05,Corrientes,-6,18.6,81
+Generales,05,Corrientes,-5,3.1,81
+Generales,05,Corrientes,-4,6.9,82
+Generales,05,Corrientes,-3,3.3,82
+Generales,05,Corrientes,-2,0.5,82
+Generales,05,Corrientes,-1,0.5,82
+Generales,05,Corrientes,0,3.5,82
+Generales,05,Corrientes,1,1.2,82
+Generales,05,Corrientes,2,5.8,83
+Generales,05,Corrientes,3,0.2,83
+Generales,05,Corrientes,4,12.0,83
+Generales,05,Corrientes,5,0.4,83
+Generales,05,Corrientes,6,0.2,83
+Generales,05,Corrientes,7,0.1,83
+Generales,05,Corrientes,8,2.9,83
+Generales,05,Corrientes,9,3.1,83
+Generales,05,Corrientes,10,2.7,84
+Generales,05,Corrientes,11,3.1,84
+Generales,05,Corrientes,12,1.8,84
+Generales,05,Corrientes,13,2.0,84
+Generales,05,Corrientes,14,2.2,84
+Generales,05,Corrientes,15,2.5,84
+Generales,06,Chaco,-15,,69
+Generales,06,Chaco,-14,0.2,69
+Generales,06,Chaco,-13,0.5,69
+Generales,06,Chaco,-12,0.2,69
+Generales,06,Chaco,-11,0.7,69
+Generales,06,Chaco,-10,0.6,69
+Generales,06,Chaco,-9,0.9,69
+Generales,06,Chaco,-8,0.1,69
+Generales,06,Chaco,-7,0.1,69
+Generales,06,Chaco,-6,0.4,70
+Generales,06,Chaco,-5,0.2,70
+Generales,06,Chaco,-4,0.1,70
+Generales,06,Chaco,-3,0.3,70
+Generales,06,Chaco,-2,0.3,70
+Generales,06,Chaco,-1,0.2,70
+Generales,06,Chaco,0,0.1,70
+Generales,06,Chaco,1,0.6,71
+Generales,06,Chaco,2,0.7,71
+Generales,06,Chaco,3,0.2,71
+Generales,06,Chaco,4,0.7,71
+Generales,06,Chaco,5,0.4,71
+Generales,06,Chaco,6,0.2,71
+Generales,06,Chaco,7,0.1,71
+Generales,06,Chaco,8,0.2,71
+Generales,06,Chaco,9,0.4,71
+Generales,06,Chaco,10,0.3,72
+Generales,06,Chaco,11,0.3,72
+Generales,06,Chaco,12,0.3,72
+Generales,06,Chaco,13,0.3,72
+Generales,06,Chaco,14,0.2,72
+Generales,06,Chaco,15,0.3,72
+Generales,07,Chubut,-15,,68
+Generales,07,Chubut,-14,1.1,68
+Generales,07,Chubut,-13,1.1,68
+Generales,07,Chubut,-12,0.6,68
+Generales,07,Chubut,-11,0.6,68
+Generales,07,Chubut,-10,0.9,69
+Generales,07,Chubut,-9,2.1,69
+Generales,07,Chubut,-8,0.3,69
+Generales,07,Chubut,-7,0.6,69
+Generales,07,Chubut,-6,0.8,69
+Generales,07,Chubut,-5,0.5,70
+Generales,07,Chubut,-4,0.6,70
+Generales,07,Chubut,-3,1.4,70
+Generales,07,Chubut,-2,5.1,71
+Generales,07,Chubut,-1,5.1,71
+Generales,07,Chubut,0,1.1,71
+Generales,07,Chubut,1,0.5,71
+Generales,07,Chubut,2,4.0,71
+Generales,07,Chubut,3,5.4,71
+Generales,07,Chubut,4,4.1,71
+Generales,07,Chubut,5,4.8,72
+Generales,07,Chubut,6,0.5,72
+Generales,07,Chubut,7,0.2,72
+Generales,07,Chubut,8,2.8,72
+Generales,07,Chubut,9,6.7,72
+Generales,07,Chubut,10,3.5,72
+Generales,07,Chubut,11,3.2,72
+Generales,07,Chubut,12,3.1,72
+Generales,07,Chubut,13,2.8,72
+Generales,07,Chubut,14,0.6,72
+Generales,07,Chubut,15,3.2,73
+Generales,08,Entre Ríos,-15,,74
+Generales,08,Entre Ríos,-14,0.3,74
+Generales,08,Entre Ríos,-13,0.9,75
+Generales,08,Entre Ríos,-12,1.3,75
+Generales,08,Entre Ríos,-11,2.3,76
+Generales,08,Entre Ríos,-10,2.0,77
+Generales,08,Entre Ríos,-9,2.1,77
+Generales,08,Entre Ríos,-8,0.5,77
+Generales,08,Entre Ríos,-7,0.4,77
+Generales,08,Entre Ríos,-6,0.4,78
+Generales,08,Entre Ríos,-5,0.6,78
+Generales,08,Entre Ríos,-4,1.1,79
+Generales,08,Entre Ríos,-3,0.9,79
+Generales,08,Entre Ríos,-2,0.8,79
+Generales,08,Entre Ríos,-1,0.8,80
+Generales,08,Entre Ríos,0,0.1,80
+Generales,08,Entre Ríos,1,0.7,80
+Generales,08,Entre Ríos,2,3.2,80
+Generales,08,Entre Ríos,3,0.8,80
+Generales,08,Entre Ríos,4,2.3,81
+Generales,08,Entre Ríos,5,0.9,81
+Generales,08,Entre Ríos,6,1.0,81
+Generales,08,Entre Ríos,7,1.3,81
+Generales,08,Entre Ríos,8,0.7,81
+Generales,08,Entre Ríos,9,1.2,81
+Generales,08,Entre Ríos,10,1.2,81
+Generales,08,Entre Ríos,11,1.2,81
+Generales,08,Entre Ríos,12,1.1,82
+Generales,08,Entre Ríos,13,1.1,82
+Generales,08,Entre Ríos,14,2.0,82
+Generales,08,Entre Ríos,15,1.2,82
+Generales,09,Formosa,-15,,81
+Generales,09,Formosa,-14,0.2,82
+Generales,09,Formosa,-13,0.8,82
+Generales,09,Formosa,-12,1.1,82
+Generales,09,Formosa,-11,1.0,82
+Generales,09,Formosa,-10,0.3,82
+Generales,09,Formosa,-9,0.7,82
+Generales,09,Formosa,-8,0.2,83
+Generales,09,Formosa,-7,0.2,83
+Generales,09,Formosa,-6,0.7,83
+Generales,09,Formosa,-5,0.6,84
+Generales,09,Formosa,-4,0.3,84
+Generales,09,Formosa,-3,0.2,84
+Generales,09,Formosa,-2,0.2,84
+Generales,09,Formosa,-1,0.2,84
+Generales,09,Formosa,0,0.2,84
+Generales,09,Formosa,1,0.3,84
+Generales,09,Formosa,2,0.5,84
+Generales,09,Formosa,3,0.8,84
+Generales,09,Formosa,4,0.2,84
+Generales,09,Formosa,5,0.3,84
+Generales,09,Formosa,6,0.3,84
+Generales,09,Formosa,7,0.4,84
+Generales,09,Formosa,8,0.4,85
+Generales,09,Formosa,9,0.7,85
+Generales,09,Formosa,10,0.4,85
+Generales,09,Formosa,11,0.4,85
+Generales,09,Formosa,12,0.4,86
+Generales,09,Formosa,13,0.4,86
+Generales,09,Formosa,14,0.4,86
+Generales,09,Formosa,15,0.5,86
+Generales,10,Jujuy,-15,,75
+Generales,10,Jujuy,-14,1.4,75
+Generales,10,Jujuy,-13,1.2,75
+Generales,10,Jujuy,-12,1.5,75
+Generales,10,Jujuy,-11,1.9,76
+Generales,10,Jujuy,-10,1.9,76
+Generales,10,Jujuy,-9,1.7,76
+Generales,10,Jujuy,-8,1.4,77
+Generales,10,Jujuy,-7,1.2,77
+Generales,10,Jujuy,-6,1.3,77
+Generales,10,Jujuy,-5,1.2,77
+Generales,10,Jujuy,-4,1.3,77
+Generales,10,Jujuy,-3,1.0,77
+Generales,10,Jujuy,-2,2.1,78
+Generales,10,Jujuy,-1,2.1,78
+Generales,10,Jujuy,0,2.1,78
+Generales,10,Jujuy,1,1.2,78
+Generales,10,Jujuy,2,2.2,78
+Generales,10,Jujuy,3,1.5,78
+Generales,10,Jujuy,4,1.4,78
+Generales,10,Jujuy,5,1.3,78
+Generales,10,Jujuy,6,2.1,78
+Generales,10,Jujuy,7,2.7,78
+Generales,10,Jujuy,8,1.8,79
+Generales,10,Jujuy,9,1.2,79
+Generales,10,Jujuy,10,1.7,79
+Generales,10,Jujuy,11,1.7,79
+Generales,10,Jujuy,12,1.8,79
+Generales,10,Jujuy,13,1.8,79
+Generales,10,Jujuy,14,1.8,79
+Generales,10,Jujuy,15,1.7,79
+Generales,11,La Pampa,-15,,84
+Generales,11,La Pampa,-14,0.3,85
+Generales,11,La Pampa,-13,2.5,85
+Generales,11,La Pampa,-12,0.8,85
+Generales,11,La Pampa,-11,2.2,85
+Generales,11,La Pampa,-10,1.1,85
+Generales,11,La Pampa,-9,1.1,85
+Generales,11,La Pampa,-8,1.7,85
+Generales,11,La Pampa,-7,1.4,85
+Generales,11,La Pampa,-6,0.3,85
+Generales,11,La Pampa,-5,1.7,86
+Generales,11,La Pampa,-4,1.1,86
+Generales,11,La Pampa,-3,0.3,86
+Generales,11,La Pampa,-2,0.6,86
+Generales,11,La Pampa,-1,0.6,86
+Generales,11,La Pampa,0,0.8,86
+Generales,11,La Pampa,1,1.1,86
+Generales,11,La Pampa,2,0.6,86
+Generales,11,La Pampa,3,1.4,86
+Generales,11,La Pampa,4,0.8,86
+Generales,11,La Pampa,5,0.3,86
+Generales,11,La Pampa,6,0.6,86
+Generales,11,La Pampa,7,0.3,86
+Generales,11,La Pampa,8,0.7,87
+Generales,11,La Pampa,9,0.6,87
+Generales,11,La Pampa,10,0.7,87
+Generales,11,La Pampa,11,0.6,87
+Generales,11,La Pampa,12,0.5,87
+Generales,11,La Pampa,13,0.5,87
+Generales,11,La Pampa,14,0.6,87
+Generales,11,La Pampa,15,0.6,87
+Generales,12,La Rioja,-15,,83
+Generales,12,La Rioja,-14,0.5,83
+Generales,12,La Rioja,-13,0.5,83
+Generales,12,La Rioja,-12,0.5,84
+Generales,12,La Rioja,-11,0.5,84
+Generales,12,La Rioja,-10,0.5,84
+Generales,12,La Rioja,-9,0.3,84
+Generales,12,La Rioja,-8,0.8,84
+Generales,12,La Rioja,-7,0.5,84
+Generales,12,La Rioja,-6,0.5,85
+Generales,12,La Rioja,-5,0.5,85
+Generales,12,La Rioja,-4,0.5,85
+Generales,12,La Rioja,-3,0.3,85
+Generales,12,La Rioja,-2,1.8,85
+Generales,12,La Rioja,-1,1.8,85
+Generales,12,La Rioja,0,1.3,85
+Generales,12,La Rioja,1,0.8,85
+Generales,12,La Rioja,2,0.5,85
+Generales,12,La Rioja,3,0.3,86
+Generales,12,La Rioja,4,0.5,86
+Generales,12,La Rioja,5,0.5,86
+Generales,12,La Rioja,6,0.8,86
+Generales,12,La Rioja,7,0.3,86
+Generales,12,La Rioja,8,0.5,86
+Generales,12,La Rioja,9,0.5,86
+Generales,12,La Rioja,10,0.5,86
+Generales,12,La Rioja,11,0.5,86
+Generales,12,La Rioja,12,0.5,86
+Generales,12,La Rioja,13,0.5,86
+Generales,12,La Rioja,14,0.8,86
+Generales,12,La Rioja,15,0.5,86
+Generales,13,Mendoza,-15,,70
+Generales,13,Mendoza,-14,0.6,71
+Generales,13,Mendoza,-13,0.6,71
+Generales,13,Mendoza,-12,0.8,72
+Generales,13,Mendoza,-11,0.7,72
+Generales,13,Mendoza,-10,0.9,73
+Generales,13,Mendoza,-9,0.7,73
+Generales,13,Mendoza,-8,0.5,73
+Generales,13,Mendoza,-7,0.3,74
+Generales,13,Mendoza,-6,1.8,74
+Generales,13,Mendoza,-5,0.6,74
+Generales,13,Mendoza,-4,1.4,74
+Generales,13,Mendoza,-3,2.0,75
+Generales,13,Mendoza,-2,4.3,75
+Generales,13,Mendoza,-1,4.3,75
+Generales,13,Mendoza,0,0.5,75
+Generales,13,Mendoza,1,1.3,75
+Generales,13,Mendoza,2,1.2,76
+Generales,13,Mendoza,3,1.5,76
+Generales,13,Mendoza,4,1.1,76
+Generales,13,Mendoza,5,1.2,77
+Generales,13,Mendoza,6,1.3,77
+Generales,13,Mendoza,7,0.3,77
+Generales,13,Mendoza,8,0.3,77
+Generales,13,Mendoza,9,1.3,77
+Generales,13,Mendoza,10,1.0,77
+Generales,13,Mendoza,11,0.9,77
+Generales,13,Mendoza,12,0.9,78
+Generales,13,Mendoza,13,0.9,78
+Generales,13,Mendoza,14,1.5,78
+Generales,13,Mendoza,15,1.0,78
+Generales,14,Misiones,-15,,62
+Generales,14,Misiones,-14,0.5,62
+Generales,14,Misiones,-13,0.7,63
+Generales,14,Misiones,-12,0.9,63
+Generales,14,Misiones,-11,0.8,63
+Generales,14,Misiones,-10,0.6,63
+Generales,14,Misiones,-9,0.9,63
+Generales,14,Misiones,-8,0.9,63
+Generales,14,Misiones,-7,1.2,63
+Generales,14,Misiones,-6,1.0,64
+Generales,14,Misiones,-5,0.7,64
+Generales,14,Misiones,-4,0.7,64
+Generales,14,Misiones,-3,0.8,64
+Generales,14,Misiones,-2,0.9,64
+Generales,14,Misiones,-1,0.9,64
+Generales,14,Misiones,0,0.8,64
+Generales,14,Misiones,1,0.7,64
+Generales,14,Misiones,2,0.9,64
+Generales,14,Misiones,3,0.9,65
+Generales,14,Misiones,4,1.3,65
+Generales,14,Misiones,5,0.6,65
+Generales,14,Misiones,6,0.8,65
+Generales,14,Misiones,7,0.9,65
+Generales,14,Misiones,8,0.9,65
+Generales,14,Misiones,9,0.8,65
+Generales,14,Misiones,10,0.9,65
+Generales,14,Misiones,11,0.9,65
+Generales,14,Misiones,12,0.8,65
+Generales,14,Misiones,13,0.9,65
+Generales,14,Misiones,14,1.0,65
+Generales,14,Misiones,15,0.9,65
+Generales,15,Neuquén,-15,,84
+Generales,15,Neuquén,-14,3.4,84
+Generales,15,Neuquén,-13,4.0,84
+Generales,15,Neuquén,-12,4.3,85
+Generales,15,Neuquén,-11,6.5,85
+Generales,15,Neuquén,-10,5.4,85
+Generales,15,Neuquén,-9,5.8,85
+Generales,15,Neuquén,-8,6.7,86
+Generales,15,Neuquén,-7,3.0,86
+Generales,15,Neuquén,-6,2.5,86
+Generales,15,Neuquén,-5,8.6,86
+Generales,15,Neuquén,-4,6.4,86
+Generales,15,Neuquén,-3,7.4,86
+Generales,15,Neuquén,-2,9.1,87
+Generales,15,Neuquén,-1,9.1,87
+Generales,15,Neuquén,0,4.6,87
+Generales,15,Neuquén,1,5.1,87
+Generales,15,Neuquén,2,6.2,87
+Generales,15,Neuquén,3,11.2,87
+Generales,15,Neuquén,4,8.2,87
+Generales,15,Neuquén,5,8.6,87
+Generales,15,Neuquén,6,8.5,88
+Generales,15,Neuquén,7,6.8,88
+Generales,15,Neuquén,8,2.8,88
+Generales,15,Neuquén,9,7.7,88
+Generales,15,Neuquén,10,7.7,88
+Generales,15,Neuquén,11,7.2,88
+Generales,15,Neuquén,12,7.1,88
+Generales,15,Neuquén,13,6.8,88
+Generales,15,Neuquén,14,9.7,88
+Generales,15,Neuquén,15,7.0,88
+Generales,16,Río Negro,-15,,80
+Generales,16,Río Negro,-14,1.8,80
+Generales,16,Río Negro,-13,8.1,80
+Generales,16,Río Negro,-12,8.1,81
+Generales,16,Río Negro,-11,9.8,81
+Generales,16,Río Negro,-10,6.5,81
+Generales,16,Río Negro,-9,5.9,82
+Generales,16,Río Negro,-8,6.7,82
+Generales,16,Río Negro,-7,2.0,82
+Generales,16,Río Negro,-6,9.2,82
+Generales,16,Río Negro,-5,11.1,82
+Generales,16,Río Negro,-4,9.4,82
+Generales,16,Río Negro,-3,6.6,83
+Generales,16,Río Negro,-2,6.7,83
+Generales,16,Río Negro,-1,6.7,83
+Generales,16,Río Negro,0,1.3,83
+Generales,16,Río Negro,1,6.5,83
+Generales,16,Río Negro,2,7.7,83
+Generales,16,Río Negro,3,7.0,83
+Generales,16,Río Negro,4,7.3,83
+Generales,16,Río Negro,5,10.4,83
+Generales,16,Río Negro,6,4.4,83
+Generales,16,Río Negro,7,1.5,83
+Generales,16,Río Negro,8,6.5,83
+Generales,16,Río Negro,9,9.0,84
+Generales,16,Río Negro,10,6.6,84
+Generales,16,Río Negro,11,6.5,84
+Generales,16,Río Negro,12,6.4,84
+Generales,16,Río Negro,13,5.8,84
+Generales,16,Río Negro,14,7.4,84
+Generales,16,Río Negro,15,6.9,84
+Generales,17,Salta,-15,,69
+Generales,17,Salta,-14,1.3,69
+Generales,17,Salta,-13,3.3,69
+Generales,17,Salta,-12,6.4,70
+Generales,17,Salta,-11,4.7,70
+Generales,17,Salta,-10,5.3,70
+Generales,17,Salta,-9,4.2,71
+Generales,17,Salta,-8,5.0,71
+Generales,17,Salta,-7,2.5,71
+Generales,17,Salta,-6,4.2,71
+Generales,17,Salta,-5,4.0,71
+Generales,17,Salta,-4,8.7,71
+Generales,17,Salta,-3,3.5,72
+Generales,17,Salta,-2,3.8,72
+Generales,17,Salta,-1,3.8,72
+Generales,17,Salta,0,1.2,72
+Generales,17,Salta,1,5.1,72
+Generales,17,Salta,2,5.4,72
+Generales,17,Salta,3,4.7,72
+Generales,17,Salta,4,5.8,73
+Generales,17,Salta,5,3.7,73
+Generales,17,Salta,6,3.5,73
+Generales,17,Salta,7,0.9,73
+Generales,17,Salta,8,1.8,73
+Generales,17,Salta,9,5.2,73
+Generales,17,Salta,10,3.7,73
+Generales,17,Salta,11,3.5,73
+Generales,17,Salta,12,3.2,74
+Generales,17,Salta,13,3.1,74
+Generales,17,Salta,14,4.4,74
+Generales,17,Salta,15,3.6,74
+Generales,18,San Juan,-15,,75
+Generales,18,San Juan,-14,0.1,75
+Generales,18,San Juan,-13,0.1,75
+Generales,18,San Juan,-12,0.1,76
+Generales,18,San Juan,-11,1.0,76
+Generales,18,San Juan,-10,0.1,77
+Generales,18,San Juan,-9,0.3,78
+Generales,18,San Juan,-8,0.3,78
+Generales,18,San Juan,-7,0.1,78
+Generales,18,San Juan,-6,0.3,78
+Generales,18,San Juan,-5,0.5,79
+Generales,18,San Juan,-4,0.4,79
+Generales,18,San Juan,-3,0.3,79
+Generales,18,San Juan,-2,0.1,80
+Generales,18,San Juan,-1,0.1,80
+Generales,18,San Juan,0,0.3,80
+Generales,18,San Juan,1,0.3,80
+Generales,18,San Juan,2,0.4,80
+Generales,18,San Juan,3,0.3,80
+Generales,18,San Juan,4,0.1,81
+Generales,18,San Juan,5,1.5,81
+Generales,18,San Juan,6,0.1,81
+Generales,18,San Juan,7,0.4,81
+Generales,18,San Juan,8,0.4,81
+Generales,18,San Juan,9,0.4,81
+Generales,18,San Juan,10,0.5,81
+Generales,18,San Juan,11,0.5,81
+Generales,18,San Juan,12,0.5,81
+Generales,18,San Juan,13,0.4,81
+Generales,18,San Juan,14,0.6,81
+Generales,18,San Juan,15,0.5,81
+Generales,19,San Luis,-15,,82
+Generales,19,San Luis,-14,0.2,82
+Generales,19,San Luis,-13,1.4,82
+Generales,19,San Luis,-12,0.6,82
+Generales,19,San Luis,-11,1.7,82
+Generales,19,San Luis,-10,1.0,83
+Generales,19,San Luis,-9,1.2,83
+Generales,19,San Luis,-8,0.6,83
+Generales,19,San Luis,-7,0.9,83
+Generales,19,San Luis,-6,1.2,83
+Generales,19,San Luis,-5,1.0,83
+Generales,19,San Luis,-4,1.1,83
+Generales,19,San Luis,-3,1.0,83
+Generales,19,San Luis,-2,1.2,84
+Generales,19,San Luis,-1,1.2,84
+Generales,19,San Luis,0,0.6,84
+Generales,19,San Luis,1,1.0,84
+Generales,19,San Luis,2,1.6,84
+Generales,19,San Luis,3,1.2,84
+Generales,19,San Luis,4,0.6,84
+Generales,19,San Luis,5,1.6,84
+Generales,19,San Luis,6,0.2,84
+Generales,19,San Luis,7,0.4,84
+Generales,19,San Luis,8,0.2,84
+Generales,19,San Luis,9,0.4,84
+Generales,19,San Luis,10,0.6,84
+Generales,19,San Luis,11,0.6,84
+Generales,19,San Luis,12,0.6,85
+Generales,19,San Luis,13,0.4,85
+Generales,19,San Luis,14,1.2,85
+Generales,19,San Luis,15,0.6,85
+Generales,20,Santa Cruz,-15,,69
+Generales,20,Santa Cruz,-14,0.3,70
+Generales,20,Santa Cruz,-13,0.3,70
+Generales,20,Santa Cruz,-12,1.1,70
+Generales,20,Santa Cruz,-11,0.3,71
+Generales,20,Santa Cruz,-10,0.5,71
+Generales,20,Santa Cruz,-9,0.8,71
+Generales,20,Santa Cruz,-8,0.5,72
+Generales,20,Santa Cruz,-7,0.3,72
+Generales,20,Santa Cruz,-6,0.3,73
+Generales,20,Santa Cruz,-5,0.5,73
+Generales,20,Santa Cruz,-4,0.4,73
+Generales,20,Santa Cruz,-3,0.5,73
+Generales,20,Santa Cruz,-2,0.5,73
+Generales,20,Santa Cruz,-1,0.4,74
+Generales,20,Santa Cruz,0,0.3,74
+Generales,20,Santa Cruz,1,0.4,74
+Generales,20,Santa Cruz,2,0.5,74
+Generales,20,Santa Cruz,3,0.4,74
+Generales,20,Santa Cruz,4,0.5,74
+Generales,20,Santa Cruz,5,0.4,74
+Generales,20,Santa Cruz,6,0.3,74
+Generales,20,Santa Cruz,7,0.5,74
+Generales,20,Santa Cruz,8,0.5,74
+Generales,20,Santa Cruz,9,0.5,75
+Generales,20,Santa Cruz,10,0.4,75
+Generales,20,Santa Cruz,11,0.4,75
+Generales,20,Santa Cruz,12,0.4,75
+Generales,20,Santa Cruz,13,0.4,75
+Generales,20,Santa Cruz,14,0.3,75
+Generales,20,Santa Cruz,15,0.4,75
+Generales,21,Santa Fe,-15,,79
+Generales,21,Santa Fe,-14,1.1,79
+Generales,21,Santa Fe,-13,2.0,79
+Generales,21,Santa Fe,-12,1.5,80
+Generales,21,Santa Fe,-11,1.1,81
+Generales,21,Santa Fe,-10,1.7,81
+Generales,21,Santa Fe,-9,0.9,82
+Generales,21,Santa Fe,-8,1.3,82
+Generales,21,Santa Fe,-7,0.8,82
+Generales,21,Santa Fe,-6,1.1,82
+Generales,21,Santa Fe,-5,2.0,82
+Generales,21,Santa Fe,-4,0.9,83
+Generales,21,Santa Fe,-3,1.2,83
+Generales,21,Santa Fe,-2,1.2,83
+Generales,21,Santa Fe,-1,1.2,83
+Generales,21,Santa Fe,0,0.6,83
+Generales,21,Santa Fe,1,0.6,84
+Generales,21,Santa Fe,2,1.2,84
+Generales,21,Santa Fe,3,1.4,84
+Generales,21,Santa Fe,4,1.3,84
+Generales,21,Santa Fe,5,1.0,84
+Generales,21,Santa Fe,6,0.9,84
+Generales,21,Santa Fe,7,0.4,84
+Generales,21,Santa Fe,8,0.3,84
+Generales,21,Santa Fe,9,1.1,85
+Generales,21,Santa Fe,10,0.9,85
+Generales,21,Santa Fe,11,0.9,85
+Generales,21,Santa Fe,12,0.8,85
+Generales,21,Santa Fe,13,0.8,85
+Generales,21,Santa Fe,14,1.0,85
+Generales,21,Santa Fe,15,0.8,85
+Generales,22,S del Estero,-15,,87
+Generales,22,S del Estero,-14,0.9,87
+Generales,22,S del Estero,-13,0.4,87
+Generales,22,S del Estero,-12,0.6,87
+Generales,22,S del Estero,-11,0.5,87
+Generales,22,S del Estero,-10,0.5,88
+Generales,22,S del Estero,-9,0.2,88
+Generales,22,S del Estero,-8,0.5,88
+Generales,22,S del Estero,-7,0.5,88
+Generales,22,S del Estero,-6,0.1,89
+Generales,22,S del Estero,-5,0.6,89
+Generales,22,S del Estero,-4,0.4,89
+Generales,22,S del Estero,-3,0.4,90
+Generales,22,S del Estero,-2,0.4,90
+Generales,22,S del Estero,-1,0.4,90
+Generales,22,S del Estero,0,0.3,90
+Generales,22,S del Estero,1,1.8,90
+Generales,22,S del Estero,2,0.4,90
+Generales,22,S del Estero,3,0.2,91
+Generales,22,S del Estero,4,0.1,91
+Generales,22,S del Estero,5,0.8,91
+Generales,22,S del Estero,6,0.3,91
+Generales,22,S del Estero,7,0.2,91
+Generales,22,S del Estero,8,0.1,91
+Generales,22,S del Estero,9,0.2,91
+Generales,22,S del Estero,10,0.3,91
+Generales,22,S del Estero,11,0.3,92
+Generales,22,S del Estero,12,0.3,92
+Generales,22,S del Estero,13,0.2,92
+Generales,22,S del Estero,14,0.4,92
+Generales,22,S del Estero,15,0.3,92
+Generales,23,T del Fuego,-15,,79
+Generales,23,T del Fuego,-14,,79
+Generales,23,T del Fuego,-13,,79
+Generales,23,T del Fuego,-12,2.3,80
+Generales,23,T del Fuego,-11,0.6,81
+Generales,23,T del Fuego,-10,1.1,82
+Generales,23,T del Fuego,-9,2.3,82
+Generales,23,T del Fuego,-8,1.5,82
+Generales,23,T del Fuego,-7,0.6,82
+Generales,23,T del Fuego,-6,5.1,82
+Generales,23,T del Fuego,-5,0.6,83
+Generales,23,T del Fuego,-4,1.7,83
+Generales,23,T del Fuego,-3,1.1,83
+Generales,23,T del Fuego,-2,1.8,84
+Generales,23,T del Fuego,-1,1.8,84
+Generales,23,T del Fuego,0,0.6,84
+Generales,23,T del Fuego,1,1.8,84
+Generales,23,T del Fuego,2,1.1,84
+Generales,23,T del Fuego,3,1.4,84
+Generales,23,T del Fuego,4,1.4,84
+Generales,23,T del Fuego,5,1.1,84
+Generales,23,T del Fuego,6,1.3,84
+Generales,23,T del Fuego,7,0.6,84
+Generales,23,T del Fuego,8,0.6,84
+Generales,23,T del Fuego,9,1.1,84
+Generales,23,T del Fuego,10,1.1,85
+Generales,23,T del Fuego,11,1.0,85
+Generales,23,T del Fuego,12,1.0,85
+Generales,23,T del Fuego,13,0.9,85
+Generales,23,T del Fuego,14,0.9,85
+Generales,23,T del Fuego,15,0.9,85
+Generales,24,Tucumán,-15,,73
+Generales,24,Tucumán,-14,1.9,74
+Generales,24,Tucumán,-13,7.2,74
+Generales,24,Tucumán,-12,2.5,74
+Generales,24,Tucumán,-11,8.9,75
+Generales,24,Tucumán,-10,6.7,75
+Generales,24,Tucumán,-9,8.7,76
+Generales,24,Tucumán,-8,5.8,76
+Generales,24,Tucumán,-7,2.6,76
+Generales,24,Tucumán,-6,12.3,76
+Generales,24,Tucumán,-5,7.5,76
+Generales,24,Tucumán,-4,12.6,76
+Generales,24,Tucumán,-3,17.4,77
+Generales,24,Tucumán,-2,16.0,77
+Generales,24,Tucumán,-1,16.0,77
+Generales,24,Tucumán,0,2.7,77
+Generales,24,Tucumán,1,13.7,77
+Generales,24,Tucumán,2,9.9,77
+Generales,24,Tucumán,3,12.5,78
+Generales,24,Tucumán,4,15.2,78
+Generales,24,Tucumán,5,12.7,78
+Generales,24,Tucumán,6,8.1,78
+Generales,24,Tucumán,7,6.9,78
+Generales,24,Tucumán,8,5.0,78
+Generales,24,Tucumán,9,15.3,78
+Generales,24,Tucumán,10,10.8,78
+Generales,24,Tucumán,11,10.6,78
+Generales,24,Tucumán,12,9.9,79
+Generales,24,Tucumán,13,9.5,79
+Generales,24,Tucumán,14,15.2,79
+Generales,24,Tucumán,15,10.9,79
